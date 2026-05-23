@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27356044/README.md)
 # Student Result Prediction AI
 
 This project uses a Linear Regression model to predict a student's final academic marks based on their study hours, attendance percentage, and past marks. The model is trained on a sample dataset and can be used to predict outcomes for new students, including an interactive prompt for user-inputted data.
